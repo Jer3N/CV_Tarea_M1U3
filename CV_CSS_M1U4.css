@@ -1,11 +1,84 @@
-body{
-    background-image: url(Imagen/Escudo.jpg);
+body {
+    background-image: url(Imagenes/Escudo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-h1{
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
     font-size: 2em;
-    color: white;
+    color: black;
     text-align: center;
     margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-size: 1.2em;
+    color: black;
+    text-align: start;
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-size: 1.2em;
+    color: black;
+    text-align: start;
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    font-size: 1.2em;
+    color: black;
+    text-align: start;
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h5 {
+    font-size: 1.2em;
+    color: black;
+    text-align: start;
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h6 {
+    font-size: 1.0em;
+    color: black;
+    text-align: start;
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 1.0em;
+    color: black;
+    text-align: justify;
+    margin: 10px 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    font-size: 1.0em;
+    color: black;
+    text-align: justify;
+    margin: 10px 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol {
+    font-size: 1.0em;
+    color: black;
+    text-align: justify;
+    margin: 10px 20px;
+    font-family: 'Courier New', Courier, monospace;
 }

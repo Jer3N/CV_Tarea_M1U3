@@ -1,0 +1,25 @@
+body {
+    background-image: url(Imagenes/Escudo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    font-size: 1.2em;
+    color: black;
+    text-align: justify;
+    margin: 10px 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#message {
+    font-size: 1.2em;
+    color: black;
+    margin-top: 20px;
+}
