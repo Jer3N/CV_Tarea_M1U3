@@ -1,0 +1,11 @@
+body{
+    background-image: url(Imagen/Escudo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
